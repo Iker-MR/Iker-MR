@@ -8,14 +8,6 @@ Construyo APIs y aplicaciones web, y las cubro con tests. Tengo formación en de
 
 ## Proyectos destacados
 
-### [Scouting360](https://github.com/Iker-MR/scouting360)
-API REST para crear y consultar perfiles de futbolistas, con posición, atributos, búsqueda y filtros.
-
-- Autenticación JWT con el token de refresco en cookie `httpOnly`, rotación y lista negra al cerrar sesión.
-- Permisos por propietario y control de perfiles duplicados en peticiones simultáneas.
-- 56 tests automatizados.
-
-`Python` `Django` `Django REST Framework` `SimpleJWT` `SQLite`
 
 ### [Simulador de inversión](https://github.com/Iker-MR/Simulador-de-inversion)
 Dashboard que calcula la evolución de una inversión con interés compuesto, la muestra en gráficas y exporta los datos a CSV.
